@@ -1,0 +1,5 @@
+print('hello world')
+pie = 1
+apple = 2
+result = apple + pie
+print(result)
